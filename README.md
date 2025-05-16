@@ -1,5 +1,5 @@
 ![Header](./![github-header-image (2)](https://github.com/user-attachments/assets/c0061871-2a06-44c0-8b03-289467b88690)
-)
+
 
 
 <h1 align="center">Bernardo Santos</h1>
