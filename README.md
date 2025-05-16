@@ -1,3 +1,6 @@
+![Header]![github-header-image (2)](https://github.com/user-attachments/assets/547099b5-1ecd-4b94-bff6-7384bffe7e1f)
+
+
 <h1 align="center">Bernardo Santos</h1>
 <h3 align="center">Full Stack Developer • Cybersecurity Enthusiast</h3>
 
