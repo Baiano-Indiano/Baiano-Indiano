@@ -1,0 +1,29 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Executa a action todos os dias às 18h UTC
+  push:
+    branches:
+      - main # Você pode adicionar outras branches se preferir
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run GitHub Profile 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+      - name: Commit and push the SVGs
+        run: |
+          git config --global user.email "bernardoneto88@gmail.com"
+          git config --global user.name "Bainao-Indiano"
+          git add -A
+          git commit -m "Update 3D contributions"
+          git push
