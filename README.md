@@ -61,3 +61,5 @@ Se tiver algo bacana, me chama!
 <p align="center">
   <sub><em>“Sempre atrás de inovação e conquistas.”</em></sub>
 </p>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
