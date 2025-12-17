@@ -68,7 +68,7 @@
       </ul>
       <br>
       <div align="center">
-        <a href="https://github.com/Baiano-Indiano/desperdicio-zero">
+        <a href="https://github.com/Baiano-Indiano/desperdicio_zero-master">
           <img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
