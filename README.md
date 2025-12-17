@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer • Mobile Specialist • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <em>"Transformando café em código limpo e escalável."</em>
+  <em>"Transformando café em código limpo, seguro e escalável."</em>
 </p>
 
 <p align="center">
@@ -58,17 +58,17 @@
     <td width="50%" valign="top">
       <h3 align="center">🍎 Desperdício Zero (Mobile)</h3>
       <br>
-      <p>Aplicativo complexo focado em sustentabilidade e gestão de alimentos. Construído com arquitetura <b>Offline-First</b>.</p>
+      <p>App focado em sustentabilidade com arquitetura <b>Offline-First</b> e alta resiliência.</p>
       <br>
       <ul>
-        <li><b>IA & OCR:</b> Integração com <code>Google ML Kit</code> para ler embalagens e cadastrar produtos via câmera.</li>
-        <li><b>Gamificação:</b> Sistema de XP e conquistas gerenciado via <code>Riverpod</code>.</li>
-        <li><b>Sync:</b> Sincronização em tempo real com <b>Supabase</b> e cache local via <b>SQLite</b>.</li>
-        <li><b>UX:</b> Design System inspirado no WhatsApp com suporte a Dark Mode.</li>
+        <li><b>IA & OCR:</b> Integração com <code>Google ML Kit</code> para ler embalagens via câmera.</li>
+        <li><b>Resiliência:</b> Sistema <b>Multi-API com Fallback</b> (Spoonacular/TheMealDB) garantindo disponibilidade contínua.</li>
+        <li><b>Performance:</b> Cache híbrido reduzindo o tempo de busca de 15s para <b>&lt;100ms</b> e economizando 90% de dados.</li>
+        <li><b>Gamificação:</b> Sistema de XP e conquistas sincronizado via <b>Supabase</b>.</li>
       </ul>
       <br>
       <div align="center">
-        <a href="https://github.com/Baiano-Indiano/desperdicio_zero-master">
+        <a href="https://github.com/Baiano-Indiano/desperdicio-zero">
           <img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -76,11 +76,11 @@
     <td width="50%" valign="top">
       <h3 align="center">🎮 Tech Gamer Store (Web)</h3>
       <br>
-      <p>E-commerce completo com foco em performance e experiência do usuário, utilizando a stack mais moderna do React.</p>
+      <p>E-commerce completo focado em performance, UX e conversão.</p>
       <br>
       <ul>
         <li><b>Pagamentos:</b> Checkout real integrado com SDK do <b>Mercado Pago</b>.</li>
-        <li><b>Performance:</b> Uso de <code>TanStack Query</code> para cache avançado e otimização de requests.</li>
+        <li><b>Performance:</b> Uso de <code>TanStack Query</code> para cache avançado e <i>optimistic updates</i>.</li>
         <li><b>Design System:</b> Componentes documentados e testados isoladamente no <b>Storybook</b>.</li>
         <li><b>i18n:</b> Suporte nativo a múltiplos idiomas (Inglês/Português).</li>
       </ul>
