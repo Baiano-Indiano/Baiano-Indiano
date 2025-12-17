@@ -1,53 +1,98 @@
 <h1 align="center">Olá, eu sou Bernardo Santos 👋</h1>
-<h3 align="center">Full Stack Developer • Cybersecurity Enthusiast • Game Dev</h3>
+<h3 align="center">Full Stack Developer • Mobile Specialist • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <em>"Sempre atrás de inovação e conquistas."</em>
+  <em>"Transformando café em código limpo e escalável."</em>
 </p>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Sou apaixonado por criar soluções que unem lógica e criatividade. Atualmente focado em evoluir minhas skills em Web Full Stack e explorar o mundo da Segurança Ofensiva.
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Sou apaixonado por criar arquiteturas robustas, seja no mobile com Flutter ou na web moderna com React. Atualmente focado em performance, UX refinada e segurança ofensiva.
 </p>
 
 ---
 
 <div align="center">
   
-  ### 🚀 Tech Stack
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  ### 🚀 Tech Stack & Ferramentas
+
+  #### 📱 Mobile Development
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-
-  <br><br>
-
-   ![Flutter Test](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square&logo=flutter)
-  ![Lints](https://img.shields.io/badge/Lints-Flutter_Recommended-blue?style=flat-square)
-
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  
+  <br>
+
+  #### 💻 Frontend Web Moderno
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  
+  <br>
+
+  #### ☁️ Backend & Data
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <br>
+
+  #### 🛠️ Tools & Security
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
+
+---
+
+### 🏆 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍎 Desperdício Zero (Mobile)</h3>
+      <br>
+      <p>Aplicativo complexo focado em sustentabilidade e gestão de alimentos. Construído com arquitetura <b>Offline-First</b>.</p>
+      <br>
+      <ul>
+        <li><b>IA & OCR:</b> Integração com <code>Google ML Kit</code> para ler embalagens e cadastrar produtos via câmera.</li>
+        <li><b>Gamificação:</b> Sistema de XP e conquistas gerenciado via <code>Riverpod</code>.</li>
+        <li><b>Sync:</b> Sincronização em tempo real com <b>Supabase</b> e cache local via <b>SQLite</b>.</li>
+        <li><b>UX:</b> Design System inspirado no WhatsApp com suporte a Dark Mode.</li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Baiano-Indiano/desperdicio-zero">
+          <img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Tech Gamer Store (Web)</h3>
+      <br>
+      <p>E-commerce completo com foco em performance e experiência do usuário, utilizando a stack mais moderna do React.</p>
+      <br>
+      <ul>
+        <li><b>Pagamentos:</b> Checkout real integrado com SDK do <b>Mercado Pago</b>.</li>
+        <li><b>Performance:</b> Uso de <code>TanStack Query</code> para cache avançado e otimização de requests.</li>
+        <li><b>Design System:</b> Componentes documentados e testados isoladamente no <b>Storybook</b>.</li>
+        <li><b>i18n:</b> Suporte nativo a múltiplos idiomas (Inglês/Português).</li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Baiano-Indiano/tech-gamer-ecommerce">
+          <img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -72,7 +117,7 @@
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Contato & Social
 
 <div align="center">
   <a href="mailto:bernardoneto88@gmail.com">
@@ -87,7 +132,7 @@
 
 ### 🧠 Atualmente estudando
 - 🔐 **Segurança Ofensiva** (Pentest & CTFs)
-- 📊 **Power BI** para análise de dados
+- 📊 **Power BI** para análise de dados avançada
 
 ---
 
