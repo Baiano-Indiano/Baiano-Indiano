@@ -34,6 +34,9 @@
 
   <br><br>
 
+   ![Flutter Test](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square&logo=flutter)
+  ![Lints](https://img.shields.io/badge/Lints-Flutter_Recommended-blue?style=flat-square)
+
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
