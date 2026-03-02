@@ -2,10 +2,6 @@
 <h3 align="center">Full Stack Developer • Mobile Specialist • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <em>"Transformando café em código limpo, seguro e escalável."</em>
-</p>
-
-<p align="center">
   Estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Sou apaixonado por criar arquiteturas robustas, seja no mobile com Flutter ou na web moderna com React. Atualmente focado em performance, UX refinada e segurança ofensiva.
 </p>
 
