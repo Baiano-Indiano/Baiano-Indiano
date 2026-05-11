@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer • Mobile Specialist • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Sou apaixonado por criar arquiteturas robustas, seja no mobile com Flutter ou na web moderna com React. Atualmente focado em performance, UX refinada e segurança ofensiva.
+  🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> e atual estudante de <b>Ciência da Computação</b>. Sou apaixonado por criar arquiteturas robustas, seja no mobile com Flutter ou na web moderna com React e Next.js. Atualmente focado em performance, UX refinada e segurança ofensiva.
 </p>
 
 ---
@@ -21,25 +21,27 @@
 
   #### 💻 Frontend Web Moderno
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   
   <br>
 
-  #### ☁️ Backend & Data
+  #### ☁️ Backend, Dados & DevOps
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
   <br>
 
-  #### 🛠️ Tools & Security
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  #### 🛠️ Tools, Game Dev & Security
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
@@ -58,8 +60,8 @@
       <br>
       <ul>
         <li><b>IA & OCR:</b> Integração com <code>Google ML Kit</code> para ler embalagens via câmera.</li>
-        <li><b>Resiliência:</b> Sistema <b>Multi-API com Fallback</b> (Spoonacular/TheMealDB) garantindo disponibilidade contínua.</li>
-        <li><b>Performance:</b> Cache híbrido reduzindo o tempo de busca de 15s para <b>&lt;100ms</b> e economizando 90% de dados.</li>
+        <li><b>Resiliência:</b> Sistema <b>Multi-API com Fallback</b> garantindo disponibilidade contínua.</li>
+        <li><b>Performance:</b> Cache híbrido reduzindo o tempo de busca drasticamente.</li>
         <li><b>Gamificação:</b> Sistema de XP e conquistas sincronizado via <b>Supabase</b>.</li>
       </ul>
       <br>
@@ -89,6 +91,20 @@
     </td>
   </tr>
 </table>
+
+### 🚧 Em Desenvolvimento
+- ⚔️ **Task App Gamificado:** Um gerenciador de tarefas inspirado no sistema do anime *Solo Leveling*.
+- 👾 **The Void:** Desenvolvimento de um jogo 2D utilizando a engine **Godot**.
+
+---
+
+### ⚡ Sobre Mim
+
+* 📍 Baseado em **Belém do Pará, Brasil**.
+* 💼 Atuo como **Freelancer** focado em automação e desenvolvimento de software sob medida.
+* 🧠 **Personalidade ENFP:** Racional e focado arquitetando código, mas extremamente comunicativo e animado no trabalho em equipe.
+* ⏱️ Utilizo o framework **GSD (Get Stuff Done)** para guiar minha produtividade e gerenciamento de projetos.
+* 🏋️ Fora das telas, você me encontra treinando calistenia (foco em Full Body), andando de skate, montando/pesquisando setups de PC ou cuidando dos meus Agapornis.
 
 ---
 
@@ -126,8 +142,9 @@
 
 <br>
 
-### 🧠 Atualmente estudando
+### 📚 Atualmente estudando
 - 🔐 **Segurança Ofensiva** (Pentest & CTFs)
+- 🎮 **Game Development** (Godot Engine)
 - 📊 **Power BI** para análise de dados avançada
 
 ---
